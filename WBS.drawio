@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-12-21T14:43:17.578Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="pYy-A_yc2yjfb5nrBLlV" version="22.1.11" type="device">
+<mxfile host="app.diagrams.net" modified="2023-12-21T18:16:24.268Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="KwwW24LY_4mWY-LSs-D6" version="22.1.11" type="device">
   <diagram name="Страница — 1" id="0ntbZASs5YwwCJ2Y_SW_">
     <mxGraphModel dx="1539" dy="736" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -25,10 +25,7 @@
         <mxCell id="jlyRW384jzeri63i-alh-48" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="jlyRW384jzeri63i-alh-2" target="jlyRW384jzeri63i-alh-13">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="jlyRW384jzeri63i-alh-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="jlyRW384jzeri63i-alh-2" target="jlyRW384jzeri63i-alh-14">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="jlyRW384jzeri63i-alh-51" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="jlyRW384jzeri63i-alh-2" target="jlyRW384jzeri63i-alh-15">
+        <mxCell id="jlyRW384jzeri63i-alh-68" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="jlyRW384jzeri63i-alh-2" target="jlyRW384jzeri63i-alh-67">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="jlyRW384jzeri63i-alh-2" value="Аналіз та визначення вимог проекту" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -47,9 +44,6 @@
           <mxGeometry x="150" y="150" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="jlyRW384jzeri63i-alh-55" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="jlyRW384jzeri63i-alh-4" target="jlyRW384jzeri63i-alh-35">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="jlyRW384jzeri63i-alh-56" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="jlyRW384jzeri63i-alh-4" target="jlyRW384jzeri63i-alh-47">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="jlyRW384jzeri63i-alh-57" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="jlyRW384jzeri63i-alh-4" target="jlyRW384jzeri63i-alh-36">
@@ -85,12 +79,6 @@
         <mxCell id="jlyRW384jzeri63i-alh-13" value="Визначення бізнес вимог" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-10" y="230" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="jlyRW384jzeri63i-alh-14" value="Аналіз та специфікація технічних вимог" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-10" y="300" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="jlyRW384jzeri63i-alh-15" value="Визначення функціональних вимог" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-10" y="370" width="120" height="60" as="geometry" />
-        </mxCell>
         <mxCell id="jlyRW384jzeri63i-alh-17" value="Архітектурне проектування" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="170" y="230" width="120" height="60" as="geometry" />
         </mxCell>
@@ -104,10 +92,10 @@
           <mxGeometry x="350" y="230" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="jlyRW384jzeri63i-alh-36" value="Перевірка відповідності стандартам" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="350" y="370" width="120" height="60" as="geometry" />
+          <mxGeometry x="350" y="300" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="jlyRW384jzeri63i-alh-37" value="Розробка тестових сценаріїв" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="350" y="440" width="120" height="60" as="geometry" />
+          <mxGeometry x="350" y="370" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="jlyRW384jzeri63i-alh-39" value="Виконання тестів" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="530" y="230" width="120" height="60" as="geometry" />
@@ -124,8 +112,11 @@
         <mxCell id="jlyRW384jzeri63i-alh-44" value="Передача програмного забезпечення клієнту" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="707" y="300" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="jlyRW384jzeri63i-alh-47" value="Дебагінг коду" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="350" y="300" width="120" height="60" as="geometry" />
+        <mxCell id="jlyRW384jzeri63i-alh-66" value="Визначення технічних вимог" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-10" y="300" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="jlyRW384jzeri63i-alh-67" value="Аналіз усіх вимог" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-10" y="370" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
